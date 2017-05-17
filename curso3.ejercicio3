@@ -23,6 +23,7 @@
 	width: 400px;
 	height: 300px;
 	position: relative;
+	padding: 15px;
 }
 .dinamarca .rojo2 {
 	background-color: red;
@@ -40,6 +41,15 @@
 	float: right;
 	margin-right: 0;
 	position: absolute;
+}
+.emiratos {
+	width: 18%;
+	height: auto;
+	padding: 15px;
+}
+.red {
+	width: 25px;
+	height:400px;
 }
 </style>
 
